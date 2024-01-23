@@ -1,0 +1,86 @@
+.acontact__form input.wpcf7-form-control.wpcf7-submit {
+    height: 60px;
+    width: 100%;
+    display: block;
+    background: #151735;
+    color: #ffffff;
+    line-height: 60px;
+    border: none;
+    outline: none;
+    -webkit-transition: all 0.3s ease-out 0s;
+    -moz-transition: all 0.3s ease-out 0s;
+    -ms-transition: all 0.3s ease-out 0s;
+    -o-transition: all 0.3s ease-out 0s;
+    transition: all 0.3s ease-out 0s;
+    border-radius: 3px;
+    font-weight: 600;
+}
+.acontact__form input.wpcf7-form-control.wpcf7-submit:hover {
+    background: #2371ff;
+}
+#contact-form input.wpcf7-form-control.wpcf7-submit.theme-btn.theme-btn-blue {
+    width: 200px;
+}
+.admin-bar .header-menu.header-sticky.sticky-menu {
+    z-index: 999;
+}
+.acontact__form input.wpcf7-form-control.wpcf7-submit {
+    margin: 0;
+}
+.atestimonial__img img {
+    max-width: inherit !important;
+}
+.ablog__meta i {
+    margin-right: 6px;
+}
+.ablog__meta ul li a i {
+    font-size: 13px;
+    margin-right: 5px;
+}
+.element-video-area {
+    min-height: 0px;
+}
+.service__contact--form__btn input.wpcf7-form-control.wpcf7-submit.theme-btn.theme-btn-blue {
+    width: 230px;
+}
+.copyright__social.team__sidebar--social.text-start li {
+    display: inline-block;
+    list-style: none;
+    margin-right: 12px;
+}
+.newsletter__wrapper--3 form.wpcf7-form.init.bdevs-cf7-form p {
+    display: inline-block;
+}
+.newsletter__wrapper--3 input.wpcf7-form-control.wpcf7-submit.theme-btn.black-btn {
+    padding: 0px 50px;
+    height: 80px;
+    line-height: 80px;
+}
+.swiper-pagination-fraction, .swiper-pagination-custom, .swiper-container-horizontal > .swiper-pagination-bullets {
+    width: inherit !important;
+}
+.atestimonial__3--text {
+    border: 1px solid #dce1e4;
+}
+
+.appoint-cta-space input.wpcf7-form-control.wpcf7-submit.theme-btn {
+    border-radius: 0px;
+    display: block;
+    height: 70px;
+    line-height: 70px;
+    width: 100%;
+    position: relative;
+    transform: .3s;
+    background: #ff6600;
+    color: #fff;
+}
+.appoint-cta-space input.wpcf7-form-control.wpcf7-submit.theme-btn:hover {
+    background: #2371ff;
+}
+div.swiper-button-prev, .swiper-container-rtl .swiper-button-next {
+    left: auto;
+    right: 100px !important;
+}
+div.swiper-button-prev, div.swiper-button-next {
+    top: inherit;
+}
